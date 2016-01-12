@@ -1,5 +1,7 @@
-Student File
+# Student File
 
-*Student Name: Runa
-*Student Location: Montreal
-*My favorite color is green :)
+* Student Name: Runa Mukherjee
+* User Name: @adsk-runa
+* Student Location: Montreal
+* My favorite color is green :)
+*[] testing checkboxes
