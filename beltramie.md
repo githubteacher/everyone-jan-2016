@@ -1,4 +1,5 @@
 # beltramie
 
-*Name: beltramie
-*location: Northfield MN
+* Name: beltramie
+
+* location: Northfield MN
