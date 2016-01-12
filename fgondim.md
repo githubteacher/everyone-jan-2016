@@ -2,6 +2,6 @@
 
 * Name: Flavio Gondim
 * Username: fgondim
-* From: Recife, Brazil
+* From: Brazil
 * Location: Montreal, Canada
 * Let's Snow!!
