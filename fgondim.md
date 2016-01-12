@@ -1,6 +1,7 @@
-# Fgondim File
+# Flavio Gondim
 
-* Name: Flavio
-* From: Brazil
+* Name: Flavio Gondim
+* Username: fgondim
+* From: Recife, Brazil
 * Location: Montreal, Canada
 * Let's Snow!!
