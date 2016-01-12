@@ -1,5 +1,5 @@
-# Delphine Dusabe
+# Delphine Student
 
-* Name: autodesk-delphine
+* Username: @autodesk-delphine
 * Location: Montreal, Canada
 * Hobby: Swimming
